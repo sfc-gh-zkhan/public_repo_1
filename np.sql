@@ -1,0 +1,1 @@
+show network policies;
